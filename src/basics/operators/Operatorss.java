@@ -1,6 +1,6 @@
-package basics;
+package basics.operators;
 
-public class OperatorsDemo {
+public class Operatorss {
 
     public static void main(String[] args) {
         int a = -13;  // left shift = msb  00000010

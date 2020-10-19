@@ -1,4 +1,4 @@
-package basics;
+package basics.examples;
 
 public class PrintNumbers {
     public static void main(String[] args) {

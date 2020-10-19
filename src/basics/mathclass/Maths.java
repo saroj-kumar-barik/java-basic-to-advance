@@ -1,6 +1,6 @@
-package basics;
+package basics.mathclass;
 
-public class MathClassDemo {
+public class Maths {
     public static void main(String[] args) {
         System.out.println(Math.max(2,65));
         System.out.println(Math.min(2,65));

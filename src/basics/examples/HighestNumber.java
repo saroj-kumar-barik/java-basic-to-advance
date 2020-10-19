@@ -1,8 +1,8 @@
-package basics;
+package basics.examples;
 
 //import java.util.Scanner;
 //
-//public class basics.HighestNumber {
+//public class basics.examples.HighestNumber {
 //    public static void main(String[] args) {
 //        System.out.println("Enter the Number and Hit Enter Key to Proceed !");
 //        Scanner myObj  = new Scanner(System.in); //Scanner - Used to take input from user, new- Create a new object
