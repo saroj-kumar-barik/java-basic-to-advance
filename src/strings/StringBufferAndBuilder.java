@@ -1,7 +1,5 @@
 package strings;
 
-import java.util.Scanner;
-
 public class StringBufferAndBuilder {
 //
 //     void pass(String x){

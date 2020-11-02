@@ -1,7 +1,5 @@
 package strings;
 
-import static java.lang.String.copyValueOf;
-
 public class Strings {
     void show(String p){
 
